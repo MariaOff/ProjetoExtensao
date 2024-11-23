@@ -10,7 +10,7 @@ Passos do projeto
   - Armazenamento local (SQLite ou Room para persistência de dados)
   - Notificação ao usuário
 1. Criando a interface de usuário
-Vamos criar uma interface simples para exibir a lista de produtos, adicionar novos produtos e editar as quantidades.
+foi criado uma interface simples para exibir a lista de produtos, adicionar novos produtos e editar as quantidades.
 
 XML para a interface principal (activity_main.xml)
 
@@ -23,7 +23,7 @@ Essa classe será usada para armazenar os dados de cada produto.
 O RecyclerView será utilizado para exibir a lista de produtos.
 
 4. Criando a lógica de controle de estoque e notificação
-Vamos criar a lógica para adicionar e atualizar os produtos, além de emitir uma notificação quando o estoque estiver baixo.
+Foi criado a lógica para adicionar e atualizar os produtos, além de emitir uma notificação quando o estoque estiver baixo.
 
 MainActivity (MainActivity.kt)
 
