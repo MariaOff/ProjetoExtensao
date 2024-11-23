@@ -4,7 +4,6 @@ Exibir uma lista de produtos com informações como nome, quantidade e preço.
 Adicionar novos produtos ao estoque.
 Atualizar a quantidade de um produto no estoque.
 Notificar o usuário quando o estoque de um produto muito vendido estiver acabando (quantidade abaixo de um valor pré-determinado).
-Vou fornecer um exemplo básico de código para esse aplicativo em Kotlin.
 
 Passos do projeto
   - Criar a interface de usuário (UI)
