@@ -42,8 +42,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         produtos = mutableListOf(
-            Produto(1, "Arroz", 10, 5.99),
-            Produto(2, "Feijão", 20, 6.49)
+            Produto(1, "Leite condensado", 10, 5.99),
+            Produto(2, "Farinha", 20, 6.49)
         )
 
         produtoAdapter = ProdutoAdapter(produtos)
