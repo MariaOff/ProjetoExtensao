@@ -1,4 +1,4 @@
-Para criar um aplicativo simples de controle de estoque de uma loja de doces em Android, vamos utilizar o Android Studio, que é a IDE oficial para o desenvolvimento de aplicativos Android. O aplicativo terá funcionalidades básicas como:
+Para criar um aplicativo simples de controle de estoque de uma loja de doces em Android, utilizei o Visual Studio Code. O aplicativo terá funcionalidades básicas como:
 
 Exibir uma lista de produtos com informações como nome, quantidade e preço.
 Adicionar novos produtos ao estoque.
